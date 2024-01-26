@@ -25,9 +25,20 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 - Social research methodology
 - Applied social research
 
-### Work experience
+## Work experience
 
 My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams. more details can be found on my cv.
 
 ## Projects
 In this section you can find some projects/papers that I found stimulating and interesting during my academic years!
+
+### Coding and data Science projects
+1. Introduction to R final assignment: in this work I was asked to analyse a dataset of 10000 tweets, over a period of 4 years. i carried out a sentiment analysis, developed linear models and time series:
+
+<a href="simonetravaglini1.github.io/projects/final_assignment_Travaglini.html" target="_blank">PDF.</a>
+
+### My bachelor final dissertation in Political science:
+
+This was one of my very first analytical papers. For my bachelor's degree I wanted to work on the contemporary analysis of political cleavages: starting with Rokkan's theory, I analysed its structure and subsequent studies, focusing on the analysis of post-materialist values from the work of Ronald Inglehart: the third chapter deals with value change by examining two european countries - Italy and Germany - and how post-materialist values change during socio-economic fluctuations (In italian).
+
+
