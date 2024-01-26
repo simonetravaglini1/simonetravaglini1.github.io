@@ -64,4 +64,8 @@ This project, on the other hand, was carried out on a random sample of 5,000 rea
 - Basic knowledge of MySQL and MongoDB
 - Basic knowledge of HTML
   
-
+## Language Skills:
+- Italian (Native)
+- English (Upper-intermediate)
+- Spanish (Intermediate)
+- Franch (Basic)
