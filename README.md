@@ -35,7 +35,7 @@ In this section you can find some projects/papers that I found stimulating and i
 ### Coding and data Science projects
 1. Introduction to R final assignment: in this work I was asked to analyse a dataset of 10000 tweets, over a period of 4 years. i carried out a sentiment analysis, developed linear models and time series:
 
-https://projects/final_assignment_Travaglini.html
+<a href="projects/final_assignment_Travaglini.html" target="_blank">PDF.</a>
 
 ### My bachelor final dissertation in Political science:
 
