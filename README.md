@@ -35,7 +35,11 @@ In this section you can find some projects/papers that I found stimulating and i
 ### Coding and data Science projects
 1. Introduction to R final assignment: in this work I was asked to analyse a dataset of 10000 tweets, over a period of 4 years. i carried out a sentiment analysis, developed linear models and time series:
 
-<a href="projects/final_assignment_Travaglini.html" target="_blank">PDF.</a>
+<a href="projects/final_assignment_Travaglini.html" target="_blank">Final_assignment.</a>
+
+2. Data access capstone project: In this project, I used the twitter API to analyse the Italian political scenario in the election campaign. With this, I wanted to see the number of tweets and topics used on the social media by the main political coalitions for the Italian general election in 2022:
+
+<a href="projects/finalreport_Travaglini.html" target="_blank">Final_report.</a>
 
 ### My bachelor final dissertation in Political science:
 
