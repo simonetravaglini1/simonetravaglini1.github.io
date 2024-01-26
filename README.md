@@ -41,6 +41,21 @@ In this section you can find some projects/papers that I found stimulating and i
 
 <a href="projects/finalreport_Travaglini.html" target="_blank">Final_report.</a>
 
+3. Big data analytics: Throughout the big data analytics course, we developed text analysis models: starting with defining the analysis corpus, we then developed scaling/scoring and classification models. Through this we used various machine learning models for text classification.
+You can find some examples here above:
+
+<a href="projects/fifth_assignment_travaglini.html" target="_blank">5th_assignment.</a>
+<a href="projects/ass7_travaglini.pdf" target="_blank">7th_assignment.</a>
+<a href="projects/8ass.html" target="_blank">8th_assignment.</a>
+
+
+### Paper projects
+1. Data analysis: 
+
+
+
+
+
 ### My bachelor final dissertation in Political science:
 
 This was one of my very first analytical papers. For my bachelor's degree I wanted to work on the contemporary analysis of political cleavages: starting with Rokkan's theory, I analysed its structure and subsequent studies, focusing on the analysis of post-materialist values from the work of Ronald Inglehart: the third chapter deals with value change by examining two european countries - Italy and Germany - and how post-materialist values change during socio-economic fluctuations (In italian).
