@@ -32,12 +32,12 @@ My work experience has been characterised by occasional jobs to pay for my studi
 ## Coding and Data Science projects:
 In this section you can find some projects that I found stimulating and interesting during my academic years
 
-### Introduction to R final assignment: 
+### Introduction to R: 
 In this work I was asked to analyse a dataset of 10000 tweets, over a period of 4 years. i carried out a sentiment analysis, developed linear models and time series. The second part focused on the data collected on spotify:
 
 <a href="projects/final_assignment_Travaglini.html" target="_blank">Final_assignment.</a>
 
-### Data access capstone project: 
+### Data access: 
 In this project, I used the twitter API to analyse the Italian political scenario in the election campaign. With this, I wanted to see the number of tweets and topics used on the social media by the main political coalitions for the Italian general election in 2022:
 
 <a href="projects/finalreport_Travaglini.html" target="_blank">Final_report.</a>
