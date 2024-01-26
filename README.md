@@ -9,7 +9,7 @@ Beyond the academic field, I am constantly striving to develop specific skills t
 My aspiration is to apply the skills acquired during my studies to tackle complex real-world challenges, contributing significantly to problem solving through data analysis. I am excited to continue exploring and deepening opportunities in this field, leveraging my passion for data analysis and complex problem solving.
 
 ## Education
-### 2022/now: University of Milan: Master degree in Data analytics for politics society and complex organisations.
+### 1. 2022/Present: University of Milan: Master degree in Data analytics for politics society and complex organisations.
 Relevant Coursework: Areas of Strong Interest and Proficiency:
 - Introduction to R
 - Data management and database concepts using python
@@ -18,8 +18,15 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 - Multivariate analysis
 - Big data analytics
   
-
+### 2. 2018/2022: University of Milan: Bachelor degree in Political science
+Relevant Coursework: Areas of Strong Interest and Proficiency:
+- Statistics
+- Macroeconomics
+- Social research methodology
+- Applied social research
 
 ### Work experience
+
+My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams. more details can be found on my cv.
 
 ### Projects
