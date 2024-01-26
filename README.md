@@ -27,37 +27,41 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 
 ## Work experience
 
-My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams. more details can be found on my cv.
+My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams. More details can be found on my cv.
 
-## Projects
-In this section you can find some projects/papers that I found stimulating and interesting during my academic years!
+## Coding and Data Science projects:
+In this section you can find some projects that I found stimulating and interesting during my academic years
 
-### Coding and data Science projects
-1. Introduction to R final assignment: in this work I was asked to analyse a dataset of 10000 tweets, over a period of 4 years. i carried out a sentiment analysis, developed linear models and time series:
+### Introduction to R final assignment: 
+In this work I was asked to analyse a dataset of 10000 tweets, over a period of 4 years. i carried out a sentiment analysis, developed linear models and time series. The second part focused on the data collected on spotify:
 
 <a href="projects/final_assignment_Travaglini.html" target="_blank">Final_assignment.</a>
 
-2. Data access capstone project: In this project, I used the twitter API to analyse the Italian political scenario in the election campaign. With this, I wanted to see the number of tweets and topics used on the social media by the main political coalitions for the Italian general election in 2022:
+### Data access capstone project: 
+In this project, I used the twitter API to analyse the Italian political scenario in the election campaign. With this, I wanted to see the number of tweets and topics used on the social media by the main political coalitions for the Italian general election in 2022:
 
 <a href="projects/finalreport_Travaglini.html" target="_blank">Final_report.</a>
 
-3. Big data analytics: Throughout the big data analytics course, we developed text analysis models: starting with defining the analysis corpus, we then developed scaling/scoring and classification models. Through this we used various machine learning models for text classification.
+### Big data analytics: 
+
+Throughout the big data analytics course, we developed text analysis models: starting with defining the analysis corpus, we then developed scaling/scoring and classification models. Through this we used various machine learning models for text classification.
 You can find some examples here above:
 
+For this project, I analysed a train-set containing political tweets: the output focuses on the variable 'polite': a dummy variable equal to 1 if a tweet uses 'polite' language; 0 'rude' language. I then trained three machine learning models (naive bayes, support vector machine and random forest) for classification and commented on the results obtained on the test-set.
 <a href="projects/fifth_assignment_travaglini.html" target="_blank">5th_assignment.</a>
+
+In this part I trained a train dataset containing a random sample of movie reviews with two different machine learning models (Regularized Regression and
+Gradient Boosting) and verified through external validity which was the better of the two. Furthermore, I explored the internal validity of the best model and tested on the validation- and test-set. The outcome focused on the sentiment variable (two levels: negative and positive)
 <a href="projects/ass7_travaglini.pdf" target="_blank">7th_assignment.</a>
+
+This project, on the other hand, was carried out on a random sample of 5,000 real clothing reviews. First I created a word embedding model. Then I divided the dataset into train- and test-sets to train a support vector machine model: the aim was to predict product liking from the reviews. I then developed the hyperparameters and trained the model, checked the internal validity and tested the model on the test dataset.
 <a href="projects/8ass.html" target="_blank">8th_assignment.</a>
 
-
-### Paper projects
-1. Data analysis: 
-
-
-
-
-
-### My bachelor final dissertation in Political science:
-
-This was one of my very first analytical papers. For my bachelor's degree I wanted to work on the contemporary analysis of political cleavages: starting with Rokkan's theory, I analysed its structure and subsequent studies, focusing on the analysis of post-materialist values from the work of Ronald Inglehart: the third chapter deals with value change by examining two european countries - Italy and Germany - and how post-materialist values change during socio-economic fluctuations (In italian).
-
+## IT Skills:
+- R and Python languages
+- SPSS and STATA
+- Microsoft office
+- Basic knowledge of MySQL and MongoDB
+- Basic knowledge of HTML
+  
 
