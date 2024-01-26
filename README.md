@@ -29,4 +29,5 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 
 My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams. more details can be found on my cv.
 
-### Projects
+## Projects
+In this section you can find some projects/papers that I found stimulating and interesting during my academic years!
