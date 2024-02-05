@@ -17,6 +17,7 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 - Analytics for complex organisations
 - Multivariate analysis
 - Big data analytics
+- Python laboratories (basic and andvance)
   
 ### 2. 2018/2022: University of Milan: Bachelor degree in Political science
 Relevant Coursework: Areas of Strong Interest and Proficiency:
@@ -27,7 +28,13 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 
 ## Work experience
 
-My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams. More details can be found on my cv.
+My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams.
+
+### ABC... Sport (seasonal) June-September
+During the summer period between 2020 and 2023 I worked as a sports instructor at a summer centre, with school-age boys and girls.
+
+### MVS Multivendor Services September 2017 - June 2018
+IT Consultant: Installation of software and operating systems on computers of BancoBPM banking group, order control, picking and preparation of packages for deliveries. First level help desk attendant for problems related to hardware, workstation and servers of company PCs
 
 ## Coding and Data Science projects:
 In this section you can find some projects that I found stimulating and interesting during my academic years
@@ -68,4 +75,4 @@ This project, on the other hand, was carried out on a random sample of 5,000 rea
 - Italian (Native)
 - English (Upper-intermediate)
 - Spanish (Intermediate)
-- Franch (Basic)
+- French (Basic)
