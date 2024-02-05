@@ -8,8 +8,8 @@ My ever-growing interest in statistics and research subjects led me to enrol in 
 Beyond the academic field, I am constantly striving to develop specific skills that aim to shape my professional future. Currently, I am focusing my education in the field of data science. I have taken advanced courses that have improved my programming skills in R and Python, becoming familiar with techniques such as data scraping, machine learning models, big data and data analysis.
 My aspiration is to apply the skills acquired during my studies to tackle complex real-world challenges, contributing significantly to problem solving through data analysis. I am excited to continue exploring and deepening opportunities in this field, leveraging my passion for data analysis and complex problem solving.
 
-## Education
-### 1. 2022/Present: University of Milan: Master degree in Data analytics for politics society and complex organisations.
+##  1.Education
+### 2022/Present: University of Milan: Master degree in Data analytics for politics society and complex organisations.
 Relevant Coursework: Areas of Strong Interest and Proficiency:
 - Introduction to R
 - Data management and database concepts using python
@@ -19,14 +19,14 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 - Big data analytics
 - Python laboratories (basic and andvance)
   
-### 2. 2018/2022: University of Milan: Bachelor degree in Political science
+### 2018/2022: University of Milan: Bachelor degree in Political science
 Relevant Coursework: Areas of Strong Interest and Proficiency:
 - Statistics
 - Macroeconomics
 - Social research methodology
 - Applied social research
 
-## Work experience
+##  2.Work experience
 
 My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams.
 
@@ -36,7 +36,7 @@ During the summer period between 2020 and 2023 I worked as a sports instructor a
 ### MVS Multivendor Services September 2017 - June 2018
 IT Consultant: Installation of software and operating systems on computers of BancoBPM banking group, order control, picking and preparation of packages for deliveries. First level help desk attendant for problems related to hardware, workstation and servers of company PCs
 
-## Coding and Data Science projects:
+##  3.Coding and Data Science projects:
 In this section you can find some projects that I found stimulating and interesting during my academic years
 
 ### Introduction to R: 
@@ -64,14 +64,14 @@ Gradient Boosting) and verified through external validity which was the better o
 This project, on the other hand, was carried out on a random sample of 5,000 real clothing reviews. First I created a word embedding model. Then I divided the dataset into train- and test-sets to train a support vector machine model: the aim was to predict product liking from the reviews. I then developed the hyperparameters and trained the model, checked the internal validity and tested the model on the test dataset.
 <a href="projects/8ass.html" target="_blank">8th_assignment.</a>
 
-## IT Skills:
+##  4.IT Skills:
 - R and Python languages
 - SPSS and STATA
 - Microsoft office
 - Basic knowledge of MySQL and MongoDB
 - Basic knowledge of HTML
   
-## Language Skills:
+##  5.Language Skills:
 - Italian (Native)
 - English (Upper-intermediate)
 - Spanish (Intermediate)
