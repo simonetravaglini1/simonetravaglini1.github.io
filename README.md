@@ -1,12 +1,11 @@
 # DATA ANALYTICS STUDENT
 
-My name is Simone Travaglini, I am 25 years old and I am completing the second year of the master's degree course in Data Analytics for politics, society and complex organizations at the University of Milan.
-My academic journey began in the 2018/2019 academic year when I enrolled in the Faculty of Political Science. During this period I developed skills in social research.
+My name is Simone Travaglini, I am 25 years old and I am finishing the second year of the Master's degree course in Data Analytics for Politics, Society and Complex Organisations at the University of Milan. My academic journey started in the 2018/2019 academic year when I enrolled in the Faculty of Political Science. During this period I developed skills in statistics, economics and social research.
 
-My growing interest in statistics and research subjects led me to enroll in a master's degree course in Data Analytics. This choice allowed me to deepen my knowledge in the field, improving the analytical skills necessary to face complex challenges in political, social and organizational contexts.
+My growing interest in statistics and research topics led me to enrol in the Master's degree course in Data Analytics. This choice allowed me to deepen my knowledge in the field, improving the analytical skills needed to tackle complex challenges in political, social and organisational contexts.
 
-Beyond the academic field, I constantly seek to develop specific skills that aim to shape my professional future. I am currently focusing my education in the field of data science. I took advanced courses that improved my programming skills in R and Python, becoming familiar with techniques such as data scraping, machine learning models, big data, and data analytics.
-My aspiration is to apply the skills acquired during my studies to tackle complex real-world challenges, significantly contributing to problem solving through data analysis.
+Beyond the academic field, I am constantly seeking to develop specific skills that aim to shape my professional future. I am currently focusing my education in the field of data science. I have taken advanced courses that have improved my programming skills in R and Python, becoming familiar with techniques such as data scraping, machine learning models, big data and data analysis. My aspiration is to apply and deepen the skills acquired during my studies to tackle complex real-world challenges, contributing to problem solving through data analysis.
+
 
 ##  1.Education
 ### 2022/Present: University of Milan: Master degree in Data analytics for politics society and complex organisations.
@@ -31,7 +30,7 @@ Relevant Coursework: Areas of Strong Interest and Proficiency:
 My work experience has been characterised by occasional jobs to pay for my studies. Despite this, I can say that I have had stimulating experiences and learned to adapt to different contexts by working in diverse teams.
 
 ### ABC... Sport (seasonal) June-September
-During the summer period between 2020 and 2023 I worked as a sports instructor at a summer centre, with school-age boys and girls.
+During the summer period between 2020 and 2023 I worked as a sports instructor at a summer center, with school-age boys and girls.
 
 ### MVS Multivendor Services September 2017 - June 2018
 IT Consultant: Installation of software and operating systems on computers of BancoBPM banking group, order control, picking and preparation of packages for deliveries. First level help desk attendant for problems related to hardware, workstation and servers of company PCs
