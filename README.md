@@ -63,6 +63,14 @@ Gradient Boosting) and verified through external validity which was the better o
 This project, on the other hand, was carried out on a random sample of 5,000 real clothing reviews. First I created a word embedding model. Then I divided the dataset into train- and test-sets to train a support vector machine model: the aim was to predict product liking from the reviews. I then developed the hyperparameters and trained the model, checked the internal validity and tested the model on the test dataset.
 <a href="projects/8ass.html" target="_blank">8th_assignment.</a>
 
+### Personal projects:
+
+On my own, I developed some projects to improve my analysis skills:
+
+Here I wanted to develop three machine learning models (random forest, NBC and SVM) to classify the genre of songs in a spotify dataset according to various features. The results show that the two svm models (linear and polynomial) have the best results for accuracy, F1 score and confusion matrix:
+
+<a href="projects/Untitled1 (2).html" target="_blank">spotify_project.</a>
+
 ##  4.IT Skills:
 - R and Python languages
 - SPSS and STATA
